@@ -1,6 +1,8 @@
 {
   "jspm": {
-    "directories": {},
+    "directories": {
+        "lib": "bundle"
+    },
     "dependencies": {
       "rx": "npm:rx@^2.5.3"
     },

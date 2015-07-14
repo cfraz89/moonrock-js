@@ -35,4 +35,3 @@ var MRHelper = (function () {
     };
     return MRHelper;
 })();
-window.mrHelper = new MRHelper();

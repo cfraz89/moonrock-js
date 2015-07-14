@@ -45,5 +45,3 @@ class MRHelper {
     this.getModule(loadedName).portalsLinked()
   }
 }
-
-(<any>window).mrHelper = new MRHelper()
