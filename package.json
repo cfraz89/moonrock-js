@@ -1,5 +1,6 @@
 {
   "jspm": {
+    "main": false,
     "directories": {
       "lib": "bundle"
     },
