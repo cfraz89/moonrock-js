@@ -5,7 +5,6 @@
         "removeComments": true
     },
     "files": [
-        "./app/appmodule.ts",
         "./moonrock.ts",
         "./moonrockportals.ts",
         "./mrhelper.ts",

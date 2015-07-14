@@ -1,1 +1,1 @@
-/// <reference path="bower_components/rxjs/ts/rx.d.ts" />
+/// <reference path="../jspm_packages/npm/rx@2.5.3/ts/rx.d.ts" />

@@ -2,8 +2,7 @@ declare var System: any
 declare var streamInterface: any
 declare var reversePortalInterface: any
 
-
-class MRHelper {
+export class MRHelper {
   window: any
 
   constructor() {

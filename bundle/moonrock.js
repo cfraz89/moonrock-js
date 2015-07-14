@@ -6,4 +6,4 @@ var MoonRock = (function () {
     };
     return MoonRock;
 })();
-exports.default = (new MoonRock());
+exports["default"] = (new MoonRock());

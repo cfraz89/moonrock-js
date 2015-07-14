@@ -35,3 +35,4 @@ var MRHelper = (function () {
     };
     return MRHelper;
 })();
+exports.MRHelper = MRHelper;
